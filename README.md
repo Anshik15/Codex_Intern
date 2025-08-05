@@ -1,3 +1,3 @@
-# Codex_Intern
+# Mini_Project
 
-This repository contains the projects and tasks completed during my Python Development internship at CODEXINTERN.The internship focused on various aspects of Python development, from data analysis to machine learning and web applications.
+This repository contains the some mini projects related to the python and its library
